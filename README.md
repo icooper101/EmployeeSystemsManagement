@@ -10,10 +10,10 @@ In order to use this application you will need to first run an ``` npm install``
 
 ## Technologies Used
 
-MySQL: Relational database management system based on SQL – Structured Query Language, used in this applicationt to warehouse and query employee and company data.
-Express.js - Used for application set up of middle ware for end point connection between the front end and backend.
-Node.js - Used for package managment and to execute JavaScript code to build command line tool for server-side scripting.
-Javascript - Used to base functionality of functions and prompts within the application.
-Git - Version control system to track changes to source code
-GitHub - Hosts repository that can be deployed to GitHub Pages
+ - MySQL - Relational database management system based on SQL – Structured Query Language, used in this application to warehouse and query employee and company data.
+ - Express.js - Used for application set up of middle ware for end point connection between the front end and backend.
+ - Node.js - Used for package managment and to execute JavaScript code to build command line tool for server-side scripting.
+ - Javascript - Used to base functionality of functions and prompts within the application.
+ - Git - Version control system to track changes to source code
+ - GitHub - Hosts repository that can be deployed to GitHub Pages
 
